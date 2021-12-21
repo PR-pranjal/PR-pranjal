@@ -9,7 +9,7 @@ Here is something about me:
 🌱 I’m currently learning React.js and web development<br/>
 💬 Ask me about dynamic programming problems<br/>
 📫 How to reach me: [Email me](mailto:pranjal18859@gmail.com) <br/>
-⚡ Fun fact: 
+⚡ Fun fact: I hate people who use spaces. jk.
 
 
 
