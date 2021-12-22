@@ -3,12 +3,6 @@
 
 <img align="right" width="430px" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-Here is something about me:
-
-
-💬 Ask me about dynamic programming problems<br/>
-📫 How to reach me: [Email me](mailto:pranjal18859@gmail.com) <br/>
-⚡ Fun fact: I hate people who use spaces. jk.
 
 
 
